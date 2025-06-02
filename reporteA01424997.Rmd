@@ -1,0 +1,17 @@
+---
+title: "A01424997"
+author: "Jose Francisco Gonzalez Ortega y Diego Garcia Cervantes"
+date: "2025-06-02"
+output: html_document
+---
+
+Prueba Git Sergio
+
+```{r}
+x = 30
+y = 53
+
+z = x + y 
+cat(z)
+```
+
